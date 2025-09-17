@@ -15,7 +15,8 @@
 💻 Languages & Tools
 <p align="center"> <img src="https://img.shields.io/badge/Code-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Code-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge"/> <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/> <img src="https://img.shields.io/badge/Runtime-Node.js-green?logo=node.js&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Platform-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/> </p>
 📊 GitHub Power Levels
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true" height="165"/> </p>
+![GitHub followers](https://img.shields.io/github/followers/feijoshow?style=social)
+![GitHub stars](https://img.shields.io/github/stars/feijoshow?style=social)
 📂 Featured Project
 🌱 AGRILINK Platform
 
