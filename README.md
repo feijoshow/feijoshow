@@ -1,47 +1,34 @@
-# 👋 Hello, I'm Cristiano Feijo!
-
+👋 Hey there! I’m Feijo!
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=2A6592&center=true&width=400&lines=Web+Developer;Agritech+Enthusiast;Business+Planner)
-
 </div>
+🚀 About Me
 
----
+🌍 Based in Namibia, I’m on a quest to blend web development with agritech innovation.
+💻 By day, I craft clean, responsive interfaces.
+🎌 By night, I recharge with anime marathons and sneak Easter eggs into my code.
 
-## 🚀 About Me
+“Code is like chakra — invisible, but it fuels everything you see.” ✨
+![Coding GIF](https://media.giphy.com/media/xTuejUXga59OjT6ipN/giphy.gif)
 
-I'm a passionate web developer and agricultural technology innovator based in Namibia. I love coding clean, accessible websites and building tech solutions that empower farmers and businesses.
+⚡ Tech Arsenal
+💻 Languages & Tools
+<p align="center"> <img src="https://img.shields.io/badge/Code-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Code-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge"/> <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/> <img src="https://img.shields.io/badge/Runtime-Node.js-green?logo=node.js&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Platform-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/> </p>
+📊 GitHub Power Levels
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true" height="165"/> </p>
+📂 Featured Project
+🌱 AGRILINK Platform
 
-![Coding GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+A marketplace connecting farmers, suppliers, and buyers across Namibia.
 
----
+💡 Trivia: The logo was inspired by a katana blade — sharp, balanced, precise. ⚔️
 
-## 💼 Skills & Tools
+📫 Let’s Connect
 
-- 💻 Web Development: HTML, CSS, JavaScript
-- 🌱 Agricultural Tech solutions & business planning
-- 🔧 Tech Stacks: Node.js, React (learning), Python, Git/GitHub
-- 📊 Data analysis & visualization
-
----
-
-## 📫 Connect with me
-
-- 📧 Email: cristianofeijo@gmail.com
+📧 Email: cristianofeijo@gmail.com
 
 
----
 
-## 📂 Projects
+✨ Thanks for visiting! May your code compile cleanly and your animations flow like Studio Ghibli skies. 🌸
 
-### AGRILINK Platform
-A marketplace for agricultural inputs and services bridging farmers, suppliers, and buyers nationally.
-
-Check it out in the repository!
-
----
-
-Thanks for visiting my profile. Let's build something amazing together! 🚜💡
-
----
-*This README is powered by creative coding and a bit of fun!*
+Fueled by coffee ☕, powered by anime ⚔️, deployed with code 💻.
