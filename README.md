@@ -2,7 +2,7 @@
 
 # Feijo · Fullstack Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=2A6592&center=true&vCenter=true&width=700&lines=Fullstack+Engineer+%F0%9F%9A%80;Frontend+Alchemist+%F0%9F%A7%AA;API+Architect+%F0%9F%94%A7;Anime-Powered+Builder+%F0%9F%8E%8C" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=2A6592&center=true&vCenter=true&width=700&lines=Fullstack+Engineer+%F0%9F%9A%80;Frontend+Alchemist+%F0%9F%A7%AA;API+Architect+%F0%9F%94%A7;Builder+from+Namibia+%F0%9F%8C%8D" alt="Typing intro" />
 
 [![Location](https://img.shields.io/badge/📍_Namibia-0A66C2?style=flat-square)](https://maps.google.com/?q=Namibia)
 [![Status](https://img.shields.io/badge/Status-Open_to_Collabs-2A6592?style=flat-square)](mailto:cristianofeijo@gmail.com)
@@ -16,14 +16,14 @@
 
 I'm a Namibia-based **fullstack engineer** who builds complete products — from polished UIs to robust backends and deployed APIs.
 
-- 🖥️ Frontend: React, clean responsive interfaces, smooth UX
-- ⚙️ Backend: Node.js, Express, REST APIs, GraphQL
-- 🗄️ Databases: PostgreSQL, MySQL
-- 🔐 I care about auth, security, and building things that actually scale
-- 🌾 Current project: **AGRILINK** — a fullstack marketplace platform
-- 🎌 Anime fan. Easter eggs guaranteed.
+- 🖥️ **Frontend:** React, clean responsive interfaces, smooth UX
+- ⚙️ **Backend:** Node.js, Express, REST APIs, GraphQL
+- 🗄️ **Database:** PostgreSQL, MySQL — structured and reliable
+- 🔐 **Principles:** Auth, security, and systems built to last
+- 🌾 **Current project:** AGRILINK — a fullstack marketplace platform
+- 🥚 Easter eggs guaranteed in every project
 
-> *"Code is like chakra — invisible, but it fuels everything you see."*
+> *"Good software is invisible — users just feel it working."*
 
 ---
 
@@ -41,7 +41,7 @@ I'm a Namibia-based **fullstack engineer** who builds complete products — from
 
 **Tools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway,figma&theme=dark" />
 
 </div>
 
@@ -52,7 +52,7 @@ I'm a Namibia-based **fullstack engineer** who builds complete products — from
 | Project | Stack | Status |
 |--------|-------|--------|
 | 🌾 **AGRILINK** | React · Node · PostgreSQL · REST API | 🚧 Active |
-| 🎨 **Agritech UI Kit** | React · TypeScript | 📐 Planning |
+| 🎨 **Agritech UI Kit** | React · TypeScript · Open Source | 📐 Planning |
 
 ---
 
@@ -62,6 +62,16 @@ I'm a Namibia-based **fullstack engineer** who builds complete products — from
 - [ ] Go deeper on auth, security & backend architecture
 - [ ] Open-source a UI component kit
 - [ ] Connect with more African developer communities
+
+---
+
+## Beyond the Code
+
+| | |
+|---|---|
+| ☕ **Coffee Dependent** | Debugging without coffee is just staring at a screen |
+| 🥚 **Easter Egg Hider** | Every project ships with at least one hidden surprise |
+| 🌍 **Building for Africa** | Tech that solves real problems for real people nearby |
 
 ---
 
@@ -81,24 +91,10 @@ I'm a Namibia-based **fullstack engineer** who builds complete products — from
 
 ---
 
-## Anime Corner 🎌
-
-*Hidden in plain sight.*
-
-[![Naruto](https://img.shields.io/badge/Naruto-Rasengan_Dev-0069b4?style=flat-square)](https://github.com/feijoshow)
-[![Dragon Ball](https://img.shields.io/badge/Dragon_Ball-Over_9000_Commits-CC0000?style=flat-square)](https://github.com/feijoshow)
-[![One Piece](https://img.shields.io/badge/One_Piece-Pirate_Coder-1a1a1a?style=flat-square)](https://github.com/feijoshow)
-[![AoT](https://img.shields.io/badge/Attack_on_Titan-Colossal_Builder-6B4226?style=flat-square)](https://github.com/feijoshow)
-[![Demon Slayer](https://img.shields.io/badge/Demon_Slayer-Breathing_in_Code-6B21A8?style=flat-square)](https://github.com/feijoshow)
-
----
-
 <div align="center">
 
-*May your builds stay green, your APIs stay fast, and your animations flow like Studio Ghibli skies.* 🌸
+*Let's build something that actually matters.* 🚀
 
-**Fueled by coffee ☕ · Powered by anime ⚔️ · Shipped with code 💻**
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="Anime coding" />
+**Fueled by coffee ☕ · Shipped from Namibia 🌍 · Always improving 📈**
 
 </div>
