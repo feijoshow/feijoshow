@@ -1,8 +1,8 @@
 <div align="center">
 
-# Feijo · Frontend Engineer & Agritech Builder
+# Feijo · Fullstack Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=2A6592&center=true&vCenter=true&width=700&lines=Frontend+Alchemist+%F0%9F%A7%AA;Agritech+Innovator+%F0%9F%8C%B1;Anime-Powered+Builder+%F0%9F%8E%8C;Future+Fullstack+Hokage+%F0%9F%94%A5" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=2A6592&center=true&vCenter=true&width=700&lines=Fullstack+Engineer+%F0%9F%9A%80;Frontend+Alchemist+%F0%9F%A7%AA;API+Architect+%F0%9F%94%A7;Anime-Powered+Builder+%F0%9F%8E%8C" alt="Typing intro" />
 
 [![Location](https://img.shields.io/badge/📍_Namibia-0A66C2?style=flat-square)](https://maps.google.com/?q=Namibia)
 [![Status](https://img.shields.io/badge/Status-Open_to_Collabs-2A6592?style=flat-square)](mailto:cristianofeijo@gmail.com)
@@ -14,12 +14,16 @@
 
 ## About Me
 
-I'm a Namibia-based frontend engineer building user interfaces that are **clean, fast, and purposeful** — with a long-term focus on agritech tools that make a real difference for farmers and communities across Africa.
+I'm a Namibia-based **fullstack engineer** who builds complete products — from polished UIs to robust backends and deployed APIs.
 
-- 🛠️ I specialise in **React, JavaScript, and Node.js**
-- 🌾 I'm building **AGRILINK** — a marketplace connecting farmers, suppliers, and buyers in Namibia
-- 🎌 I love anime, and yes, I hide easter eggs in my projects
-- 💬 Philosophy: *"Code is like chakra — invisible, but it fuels everything you see."*
+- 🖥️ Frontend: React, clean responsive interfaces, smooth UX
+- ⚙️ Backend: Node.js, Express, REST APIs, GraphQL
+- 🗄️ Databases: PostgreSQL, MySQL
+- 🔐 I care about auth, security, and building things that actually scale
+- 🌾 Current project: **AGRILINK** — a fullstack marketplace platform
+- 🎌 Anime fan. Easter eggs guaranteed.
+
+> *"Code is like chakra — invisible, but it fuels everything you see."*
 
 ---
 
@@ -27,13 +31,17 @@ I'm a Namibia-based frontend engineer building user interfaces that are **clean,
 
 <div align="center">
 
-**Languages & Frameworks**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
 
-**Tools & Workflow**
+**Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,graphql&theme=dark" />
+
+**Tools & Deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway&theme=dark" />
 
 </div>
 
@@ -41,20 +49,18 @@ I'm a Namibia-based frontend engineer building user interfaces that are **clean,
 
 ## Currently Building
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🌾 **AGRILINK** | Marketplace for farmers, suppliers & buyers in Namibia | 🚧 Active |
-| 🎨 **Agritech UI Kit** | Open-source component library for agri platforms | 📐 Planning |
-
-> The AGRILINK logo was inspired by a **katana blade** — sharp, balanced, and precise. ⚔️
+| Project | Stack | Status |
+|--------|-------|--------|
+| 🌾 **AGRILINK** | React · Node · PostgreSQL · REST API | 🚧 Active |
+| 🎨 **Agritech UI Kit** | React · TypeScript | 📐 Planning |
 
 ---
 
 ## 2026 Goals
 
 - [ ] Ship the next major AGRILINK milestone
-- [ ] Level up backend architecture (databases, APIs, auth)
-- [ ] Open-source an agritech UI component kit
+- [ ] Go deeper on auth, security & backend architecture
+- [ ] Open-source a UI component kit
 - [ ] Connect with more African developer communities
 
 ---
