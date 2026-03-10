@@ -17,6 +17,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=800&color=39FF14&center=false&vCenter=true&width=600&lines=%24+whoami;%3E+feijo+--+fullstack+engineer+%40+namibia;%24+cat+current_project.txt;%3E+CRENIT+%7C+fintech+%7C+rent+%2B+credit+%2B+real+impact;%24+git+log+--oneline+-1;%3E+shipping+phase+1...+%F0%9F%9A%80" alt="terminal typing" />
 
+[![GitHub](https://img.shields.io/badge/github-feijoshow-39FF14?style=flat-square&logo=github&logoColor=black)](https://github.com/feijoshow)
+[![Email](https://img.shields.io/badge/email-cristianofeijo@gmail.com-39FF14?style=flat-square&logo=gmail&logoColor=black)](mailto:cristianofeijo@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Windhoek,_Namibia-39FF14?style=flat-square)](https://maps.google.com/?q=Windhoek+Namibia)
+
 ---
 
 ```bash
@@ -32,6 +36,9 @@ CONTACT  : cristianofeijo@gmail.com
 
 PHILOSOPHY:
   "Good software is invisible — users just feel it working."
+
+CURRENTLY LEARNING:
+  fintech architecture · payment systems · credit infrastructure
 
 KNOWN BUGS:
   - Cannot stop building once an idea takes hold
@@ -94,21 +101,8 @@ $ cat projects/crenit/README.md
 │    ⬜ Mobile apps                                                │
 │                                                                  │
 │  STATUS  : 🚧 active development                                 │
+│  REPO    : → github.com/feijoshow/crenit                         │
 ╚──────────────────────────────────────────────────────────────────╝
-```
-
----
-
-```bash
-$ ./goals --year=2026
-```
-
-```
-[▓▓▓▓▓░░░░░]  Ship CRENIT Phase 1 — full tenant + landlord MVP
-[▓░░░░░░░░░]  Integrate Stripe + credit bureau APIs (Phase 2)
-[▓▓░░░░░░░░]  Go deeper on security & backend architecture
-[░░░░░░░░░░]  Open-source a UI component kit
-[▓░░░░░░░░░]  Connect with more African dev communities
 ```
 
 ---
@@ -117,26 +111,28 @@ $ ./goals --year=2026
 $ git log --all --oneline --graph --decorate
 ```
 
-<img src="https://streak-stats.demolab.com?user=feijoshow&theme=tokyonight&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak" />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=feijoshow&theme=tokyonight&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=feijoshow&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&icon_color=39FF14&title_color=39FF14" alt="stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feijoshow&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14" alt="langs" />
+<a href="https://github.com/feijoshow">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=feijoshow&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&icon_color=39FF14&title_color=39FF14" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feijoshow&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14&langs_count=6" alt="Top Languages" />
+</a>
 
 ---
 
 ```bash
-$ cat contacts.sh && bash contacts.sh
+$ bash contacts.sh
 ```
 
-```bash
-#!/bin/bash
-echo "📧  email   → cristianofeijo@gmail.com"
-echo "🐙  github  → github.com/feijoshow"
-echo "📍  based   → Windhoek, Namibia"
-echo ""
-echo "→ open to: collabs, contracts, full-time, interesting problems"
-echo "→ not open to: bad coffee and boring work"
+```
+📧  email   → cristianofeijo@gmail.com
+🐙  github  → github.com/feijoshow
+📍  based   → Windhoek, Namibia
+
+→ open to: collabs, contracts, full-time, interesting problems
+→ not open to: bad coffee and boring work
 ```
 
 ---
