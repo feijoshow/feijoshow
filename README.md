@@ -1,100 +1,153 @@
-<div align="center">
+```
+╔═════════════════════════════════════════════════════════════════╗
+║                                                                 ║
+║   ███████╗███████╗██╗     ██╗ ██████╗                          ║
+║   ██╔════╝██╔════╝██║     ██║██╔═══██╗                         ║
+║   █████╗  █████╗  ██║     ██║██║   ██║                         ║
+║   ██╔══╝  ██╔══╝  ██║██   ██║██║   ██║                         ║
+║   ██║     ███████╗██║╚█████╔╝╚██████╔╝                         ║
+║   ╚═╝     ╚══════╝╚═╝ ╚════╝  ╚═════╝                          ║
+║                                                                 ║
+║   > Fullstack Engineer · Namibia 🌍                             ║
+║   > Building fintech from the bottom up                         ║
+║   > Coffee-powered. Easter-egg-certified.                       ║
+║                                                                 ║
+╚═════════════════════════════════════════════════════════════════╝
+```
 
-# Feijo · Fullstack Engineer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=2A6592&center=true&vCenter=true&width=700&lines=Fullstack+Engineer+%F0%9F%9A%80;Frontend+Alchemist+%F0%9F%A7%AA;API+Architect+%F0%9F%94%A7;Builder+from+Namibia+%F0%9F%8C%8D" alt="Typing intro" />
-
-[![Location](https://img.shields.io/badge/📍_Namibia-0A66C2?style=flat-square)](https://maps.google.com/?q=Namibia)
-[![Status](https://img.shields.io/badge/Status-Open_to_Collabs-2A6592?style=flat-square)](mailto:cristianofeijo@gmail.com)
-[![Email](https://img.shields.io/badge/Email-cristianofeijo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cristianofeijo@gmail.com)
-
-</div>
-
----
-
-## About Me
-
-I'm a Namibia-based **fullstack engineer** who builds complete products — from polished UIs to robust backends and deployed APIs.
-
-- 🖥️ **Frontend:** React, clean responsive interfaces, smooth UX
-- ⚙️ **Backend:** Node.js, Express, REST APIs, GraphQL
-- 🗄️ **Database:** PostgreSQL, MySQL — structured and reliable
-- 🔐 **Principles:** Auth, security, and systems built to last
-- 🌾 **Current project:** AGRILINK — a fullstack marketplace platform
-- 🥚 Easter eggs guaranteed in every project
-
-> *"Good software is invisible — users just feel it working."*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=800&color=39FF14&center=false&vCenter=true&width=600&lines=%24+whoami;%3E+feijo+--+fullstack+engineer+%40+namibia;%24+cat+current_project.txt;%3E+CRENIT+%7C+fintech+%7C+rent+%2B+credit+%2B+real+impact;%24+git+log+--oneline+-1;%3E+shipping+phase+1...+%F0%9F%9A%80" alt="terminal typing" />
 
 ---
 
-## Tech Stack
+```bash
+$ cat about.md
+```
 
-<div align="center">
+```
+NAME     : Feijo
+ROLE     : Fullstack Engineer
+LOCATION : Windhoek, Namibia 🌍
+STATUS   : open to collabs & opportunities
+CONTACT  : cristianofeijo@gmail.com
 
-**Frontend**
+PHILOSOPHY:
+  "Good software is invisible — users just feel it working."
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,graphql&theme=dark" />
-
-**Tools & Deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway,figma&theme=dark" />
-
-</div>
-
----
-
-## Currently Building
-
-| Project | Stack | Status |
-|--------|-------|--------|
-| 🌾 **AGRILINK** | React · Node · PostgreSQL · REST API | 🚧 Active |
-| 🎨 **Agritech UI Kit** | React · TypeScript · Open Source | 📐 Planning |
+KNOWN BUGS:
+  - Cannot stop building once an idea takes hold
+  - Hides easter eggs in every project (feature, not a bug)
+  - Allergic to stopping at 'good enough'
+```
 
 ---
 
-## 2026 Goals
+```bash
+$ cat stack.json
+```
 
-- [ ] Ship the next major AGRILINK milestone
-- [ ] Go deeper on auth, security & backend architecture
-- [ ] Open-source a UI component kit
-- [ ] Connect with more African developer communities
-
----
-
-## Beyond the Code
-
-| | |
-|---|---|
-| ☕ **Coffee Dependent** | Debugging without coffee is just staring at a screen |
-| 🥚 **Easter Egg Hider** | Every project ships with at least one hidden surprise |
-| 🌍 **Building for Africa** | Tech that solves real problems for real people nearby |
+```json
+{
+  "frontend"  : ["React", "TypeScript", "HTML", "CSS"],
+  "backend"   : ["NestJS", "Node.js", "Express", "REST API"],
+  "database"  : ["PostgreSQL", "MySQL", "TypeORM"],
+  "auth"      : ["JWT", "Passport", "bcrypt", "RBAC"],
+  "tools"     : ["Git", "GitHub", "VSCode", "Figma", "Vercel", "Railway"],
+  "currently" : "leveling up on fintech architecture"
+}
+```
 
 ---
 
-## GitHub Stats
+```bash
+$ cat projects/crenit/README.md
+```
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=feijoshow&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=feijoshow&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feijoshow&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://komarev.com/ghpvc/?username=feijoshow&style=flat-square&color=2A6592" alt="Profile views" />
-
-</div>
+```
+╔──────────────────────────────────────────────────────────────────╗
+│  💳 CRENIT — Rent Payments as a Credit Engine                    │
+╠──────────────────────────────────────────────────────────────────╣
+│                                                                  │
+│  The problem:  Millions of renters pay on time every month.      │
+│                None of it builds their credit score.             │
+│                                                                  │
+│  The fix:      CRENIT turns every rent payment into a            │
+│                credit-building event. On-time = score up.        │
+│                Late = accountability. Consistently.              │
+│                                                                  │
+╠──────────────────────────────────────────────────────────────────╣
+│  STACK                                                           │
+│    frontend  →  React + TypeScript                               │
+│    backend   →  NestJS + PostgreSQL + TypeORM                    │
+│    auth      →  JWT + role-based guards (tenant / landlord)      │
+│                                                                  │
+│  PHASE 1 SHIPPING                                                │
+│    ✅ Auth system (JWT, role-based)                              │
+│    ✅ Landlord dashboard — properties, tenants, payments         │
+│    ✅ Tenant dashboard — credit score, payment history           │
+│    ✅ KYC document verification workflow                         │
+│    ✅ Auto credit score engine on every payment                  │
+│                                                                  │
+│  PHASE 2 PLANNED                                                 │
+│    ⬜ Stripe payment integration                                 │
+│    ⬜ Credit bureau API reporting                                │
+│    ⬜ Escrow & deposit management                                │
+│    ⬜ Mobile apps                                                │
+│                                                                  │
+│  STATUS  : 🚧 active development                                 │
+╚──────────────────────────────────────────────────────────────────╝
+```
 
 ---
 
-<div align="center">
+```bash
+$ ./goals --year=2026
+```
 
-*Let's build something that actually matters.* 🚀
+```
+[▓▓▓▓▓░░░░░]  Ship CRENIT Phase 1 — full tenant + landlord MVP
+[▓░░░░░░░░░]  Integrate Stripe + credit bureau APIs (Phase 2)
+[▓▓░░░░░░░░]  Go deeper on security & backend architecture
+[░░░░░░░░░░]  Open-source a UI component kit
+[▓░░░░░░░░░]  Connect with more African dev communities
+```
 
-**Fueled by coffee ☕ · Shipped from Namibia 🌍 · Always improving 📈**
+---
 
-</div>
+```bash
+$ git log --all --oneline --graph --decorate
+```
+
+<img src="https://streak-stats.demolab.com?user=feijoshow&theme=tokyonight&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=feijoshow&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&icon_color=39FF14&title_color=39FF14" alt="stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feijoshow&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14" alt="langs" />
+
+---
+
+```bash
+$ cat contacts.sh && bash contacts.sh
+```
+
+```bash
+#!/bin/bash
+echo "📧  email   → cristianofeijo@gmail.com"
+echo "🐙  github  → github.com/feijoshow"
+echo "📍  based   → Windhoek, Namibia"
+echo ""
+echo "→ open to: collabs, contracts, full-time, interesting problems"
+echo "→ not open to: bad coffee and boring work"
+```
+
+---
+
+```
+[sys]  uptime       : always building
+[sys]  kernel       : curiosity v∞
+[sys]  load avg     : high — intentionally
+[sys]  last commit  : today
+
+> _
+```
+
+<img src="https://komarev.com/ghpvc/?username=feijoshow&style=flat-square&color=39FF14&label=profile+views" />
