@@ -1,4 +1,6 @@
-```
+Here's the updated README with all your projects added, keeping the same terminal aesthetic:Here's the raw markdown you can paste into your `README.md`:
+
+```markdown
 ╔═════════════════════════════════════════════════════════════════╗
 ║                                                                 ║
 ║   ███████╗███████╗██╗     ██╗ ██████╗                          ║
@@ -66,6 +68,16 @@ $ cat stack.json
 ---
 
 ```bash
+$ ls projects/
+```
+
+```
+crenit/        erp-system/        portfolio/        missing-file/        taggi/
+```
+
+---
+
+```bash
 $ cat projects/crenit/README.md
 ```
 
@@ -102,6 +114,90 @@ $ cat projects/crenit/README.md
 │                                                                  │
 │  STATUS  : 🚧 active development                                 │
 │  REPO    : → github.com/feijoshow/crenit                         │
+╚──────────────────────────────────────────────────────────────────╝
+```
+
+---
+
+```bash
+$ cat projects/erp-system/README.md
+```
+
+```
+╔──────────────────────────────────────────────────────────────────╗
+│  📦 ERP SYSTEM — Inventory & Sales Management                    │
+╠──────────────────────────────────────────────────────────────────╣
+│                                                                  │
+│  A full-stack ERP dashboard for managing inventory,              │
+│  tracking sales, and keeping operations in sync.                 │
+│                                                                  │
+╠──────────────────────────────────────────────────────────────────╣
+│  STACK                                                           │
+│    frontend  →  React + TypeScript                               │
+│    backend   →  NestJS + PostgreSQL + TypeORM                    │
+│    auth      →  JWT + RBAC                                       │
+│                                                                  │
+│  FEATURES                                                        │
+│    ✅ Inventory tracking & stock management                      │
+│    ✅ Sales dashboard & reporting                                │
+│    ✅ Role-based access control                                  │
+│                                                                  │
+│  LIVE    : → erp-system-client-liard.vercel.app                  │
+╚──────────────────────────────────────────────────────────────────╝
+```
+
+---
+
+```bash
+$ cat projects/missing-file/README.md
+```
+
+```
+╔──────────────────────────────────────────────────────────────────╗
+│  🕹️  THE MISSING FILE — Browser Puzzle Game                      │
+╠──────────────────────────────────────────────────────────────────╣
+│                                                                  │
+│  A browser-based mystery game built around a missing file.       │
+│  Find the clues. Follow the trail. Recover what was lost.        │
+│                                                                  │
+│  LIVE    : → missing-files.vercel.app                            │
+╚──────────────────────────────────────────────────────────────────╝
+```
+
+---
+
+```bash
+$ cat projects/taggi/README.md
+```
+
+```
+╔──────────────────────────────────────────────────────────────────╗
+│  🏷️  TAGGI — Tag Game                                            │
+╠──────────────────────────────────────────────────────────────────╣
+│                                                                  │
+│  A browser-based tag game. Fast, fun, and surprisingly           │
+│  hard to put down. Classic concept, built from scratch.          │
+│                                                                  │
+│  REPO    : → github.com/robertofeijon/taggi                      │
+╚──────────────────────────────────────────────────────────────────╝
+```
+
+---
+
+```bash
+$ cat projects/portfolio/README.md
+```
+
+```
+╔──────────────────────────────────────────────────────────────────╗
+│  🌐 PORTFOLIO — Projects & Skills Showcase                       │
+╠──────────────────────────────────────────────────────────────────╣
+│                                                                  │
+│  Personal portfolio showcasing projects, skills, and             │
+│  what I've been building from Windhoek, Namibia.                 │
+│                                                                  │
+│  STACK   : React + TypeScript                                    │
+│  LIVE    : → portofolio-flax-zeta.vercel.app                     │
 ╚──────────────────────────────────────────────────────────────────╝
 ```
 
@@ -147,3 +243,5 @@ $ bash contacts.sh
 ```
 
 <img src="https://komarev.com/ghpvc/?username=feijoshow&style=flat-square&color=39FF14&label=profile+views" />
+
+What I added: a `$ ls projects/` command that lists all five projects at a glance, then individual `README.md` blocks for the ERP system, The Missing File, Taggi, and your portfolio — all matching the same box style as CRENIT. The rest is untouched. Want to tweak any of the project descriptions?
