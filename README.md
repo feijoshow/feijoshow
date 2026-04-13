@@ -1,247 +1,128 @@
-Here's the updated README with all your projects added, keeping the same terminal aesthetic:Here's the raw markdown you can paste into your `README.md`:
+<div align="left">
 
-```markdown
-╔═════════════════════════════════════════════════════════════════╗
-║                                                                 ║
-║   ███████╗███████╗██╗     ██╗ ██████╗                          ║
-║   ██╔════╝██╔════╝██║     ██║██╔═══██╗                         ║
-║   █████╗  █████╗  ██║     ██║██║   ██║                         ║
-║   ██╔══╝  ██╔══╝  ██║██   ██║██║   ██║                         ║
-║   ██║     ███████╗██║╚█████╔╝╚██████╔╝                         ║
-║   ╚═╝     ╚══════╝╚═╝ ╚════╝  ╚═════╝                          ║
-║                                                                 ║
-║   > Fullstack Engineer · Namibia 🌍                             ║
-║   > Building fintech from the bottom up                         ║
-║   > Coffee-powered. Easter-egg-certified.                       ║
-║                                                                 ║
-╚═════════════════════════════════════════════════════════════════╝
-```
+# Feijo
+**Fullstack Engineer — building fintech from the bottom up**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=800&color=39FF14&center=false&vCenter=true&width=600&lines=%24+whoami;%3E+feijo+--+fullstack+engineer+%40+namibia;%24+cat+current_project.txt;%3E+CRENIT+%7C+fintech+%7C+rent+%2B+credit+%2B+real+impact;%24+git+log+--oneline+-1;%3E+shipping+phase+1...+%F0%9F%9A%80" alt="terminal typing" />
+![Status](https://img.shields.io/badge/status-open_to_work-brightgreen?style=flat-square)
+![Location](https://img.shields.io/badge/📍-Windhoek,_Namibia-black?style=flat-square)
+[![Email](https://img.shields.io/badge/email-cristianofeijo@gmail.com-black?style=flat-square&logo=gmail)](mailto:cristianofeijo@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-feijoshow-black?style=flat-square&logo=github)](https://github.com/feijoshow)
 
-[![GitHub](https://img.shields.io/badge/github-feijoshow-39FF14?style=flat-square&logo=github&logoColor=black)](https://github.com/feijoshow)
-[![Email](https://img.shields.io/badge/email-cristianofeijo@gmail.com-39FF14?style=flat-square&logo=gmail&logoColor=black)](mailto:cristianofeijo@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Windhoek,_Namibia-39FF14?style=flat-square)](https://maps.google.com/?q=Windhoek+Namibia)
+</div>
 
 ---
 
-```bash
-$ cat about.md
-```
+## About
 
-```
-NAME     : Feijo
-ROLE     : Fullstack Engineer
-LOCATION : Windhoek, Namibia 🌍
-STATUS   : open to collabs & opportunities
-CONTACT  : cristianofeijo@gmail.com
+I build full-stack products with a focus on fintech, credit infrastructure, and real-world impact. I hide easter eggs in everything I ship. Cannot stop building once an idea takes hold.
 
-PHILOSOPHY:
-  "Good software is invisible — users just feel it working."
+> "Good software is invisible — users just feel it working."
 
-CURRENTLY LEARNING:
-  fintech architecture · payment systems · credit infrastructure
-
-KNOWN BUGS:
-  - Cannot stop building once an idea takes hold
-  - Hides easter eggs in every project (feature, not a bug)
-  - Allergic to stopping at 'good enough'
-```
+**Currently learning:** fintech architecture · payment systems · credit infrastructure
 
 ---
 
-```bash
-$ cat stack.json
-```
+## Stack
 
-```json
-{
-  "frontend"  : ["React", "TypeScript", "HTML", "CSS"],
-  "backend"   : ["NestJS", "Node.js", "Express", "REST API"],
-  "database"  : ["PostgreSQL", "MySQL", "TypeORM"],
-  "auth"      : ["JWT", "Passport", "bcrypt", "RBAC"],
-  "tools"     : ["Git", "GitHub", "VSCode", "Figma", "Vercel", "Railway"],
-  "currently" : "leveling up on fintech architecture"
-}
-```
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![NestJS](https://img.shields.io/badge/NestJS-black?style=flat-square&logo=nestjs)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
+![TypeORM](https://img.shields.io/badge/TypeORM-black?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
+![Railway](https://img.shields.io/badge/Railway-black?style=flat-square&logo=railway)
+![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma)
 
 ---
 
-```bash
-$ ls projects/
-```
+## Projects
 
-```
-crenit/        erp-system/        portfolio/        missing-file/        taggi/
-```
+### 💳 CRENIT — Rent Payments as a Credit Engine
+> `active development` · fintech · credit infrastructure
 
----
+Millions of renters pay on time every month. None of it builds their credit score. CRENIT changes that — every rent payment becomes a credit-building event. On-time means score up. Late means accountability. Consistently.
 
-```bash
-$ cat projects/crenit/README.md
-```
+**Stack:** React · TypeScript · NestJS · PostgreSQL · TypeORM · JWT · RBAC · KYC
 
-```
-╔──────────────────────────────────────────────────────────────────╗
-│  💳 CRENIT — Rent Payments as a Credit Engine                    │
-╠──────────────────────────────────────────────────────────────────╣
-│                                                                  │
-│  The problem:  Millions of renters pay on time every month.      │
-│                None of it builds their credit score.             │
-│                                                                  │
-│  The fix:      CRENIT turns every rent payment into a            │
-│                credit-building event. On-time = score up.        │
-│                Late = accountability. Consistently.              │
-│                                                                  │
-╠──────────────────────────────────────────────────────────────────╣
-│  STACK                                                           │
-│    frontend  →  React + TypeScript                               │
-│    backend   →  NestJS + PostgreSQL + TypeORM                    │
-│    auth      →  JWT + role-based guards (tenant / landlord)      │
-│                                                                  │
-│  PHASE 1 SHIPPING                                                │
-│    ✅ Auth system (JWT, role-based)                              │
-│    ✅ Landlord dashboard — properties, tenants, payments         │
-│    ✅ Tenant dashboard — credit score, payment history           │
-│    ✅ KYC document verification workflow                         │
-│    ✅ Auto credit score engine on every payment                  │
-│                                                                  │
-│  PHASE 2 PLANNED                                                 │
-│    ⬜ Stripe payment integration                                 │
-│    ⬜ Credit bureau API reporting                                │
-│    ⬜ Escrow & deposit management                                │
-│    ⬜ Mobile apps                                                │
-│                                                                  │
-│  STATUS  : 🚧 active development                                 │
-│  REPO    : → github.com/feijoshow/crenit                         │
-╚──────────────────────────────────────────────────────────────────╝
-```
+**Phase 1 — shipped**
+- ✅ Auth system (JWT, role-based)
+- ✅ Landlord dashboard — properties, tenants, payments
+- ✅ Tenant dashboard — credit score, payment history
+- ✅ KYC document verification workflow
+- ✅ Auto credit score engine on every payment
+
+**Phase 2 — planned**
+- ⬜ Stripe payment integration
+- ⬜ Credit bureau API reporting
+- ⬜ Escrow & deposit management
+- ⬜ Mobile apps
+
+[![GitHub](https://img.shields.io/badge/GitHub-feijoshow/crenit-black?style=flat-square&logo=github)](https://github.com/feijoshow/crenit)
 
 ---
 
-```bash
-$ cat projects/erp-system/README.md
-```
+### 📦 ERP System — Inventory & Sales Management
 
-```
-╔──────────────────────────────────────────────────────────────────╗
-│  📦 ERP SYSTEM — Inventory & Sales Management                    │
-╠──────────────────────────────────────────────────────────────────╣
-│                                                                  │
-│  A full-stack ERP dashboard for managing inventory,              │
-│  tracking sales, and keeping operations in sync.                 │
-│                                                                  │
-╠──────────────────────────────────────────────────────────────────╣
-│  STACK                                                           │
-│    frontend  →  React + TypeScript                               │
-│    backend   →  NestJS + PostgreSQL + TypeORM                    │
-│    auth      →  JWT + RBAC                                       │
-│                                                                  │
-│  FEATURES                                                        │
-│    ✅ Inventory tracking & stock management                      │
-│    ✅ Sales dashboard & reporting                                │
-│    ✅ Role-based access control                                  │
-│                                                                  │
-│  LIVE    : → erp-system-client-liard.vercel.app                  │
-╚──────────────────────────────────────────────────────────────────╝
-```
+Full-stack ERP dashboard for managing inventory, tracking sales, and keeping operations in sync. Built for real business workflows with role-based access control.
+
+**Stack:** React · TypeScript · NestJS · PostgreSQL · TypeORM · JWT · RBAC
+
+[![Live](https://img.shields.io/badge/Live-erp--system-black?style=flat-square&logo=vercel)](https://erp-system-client-liard.vercel.app/)
 
 ---
 
-```bash
-$ cat projects/missing-file/README.md
-```
+### 🌐 Portfolio — Projects & Skills Showcase
 
-```
-╔──────────────────────────────────────────────────────────────────╗
-│  🕹️  THE MISSING FILE — Browser Puzzle Game                      │
-╠──────────────────────────────────────────────────────────────────╣
-│                                                                  │
-│  A browser-based mystery game built around a missing file.       │
-│  Find the clues. Follow the trail. Recover what was lost.        │
-│                                                                  │
-│  LIVE    : → missing-files.vercel.app                            │
-╚──────────────────────────────────────────────────────────────────╝
-```
+Personal site showcasing projects, skills, and what's being built from Windhoek, Namibia.
+
+**Stack:** React · TypeScript
+
+[![Live](https://img.shields.io/badge/Live-portfolio-black?style=flat-square&logo=vercel)](https://portofolio-flax-zeta.vercel.app/)
 
 ---
 
-```bash
-$ cat projects/taggi/README.md
-```
+### 🕹️ The Missing File — Browser Mystery Game
 
-```
-╔──────────────────────────────────────────────────────────────────╗
-│  🏷️  TAGGI — Tag Game                                            │
-╠──────────────────────────────────────────────────────────────────╣
-│                                                                  │
-│  A browser-based tag game. Fast, fun, and surprisingly           │
-│  hard to put down. Classic concept, built from scratch.          │
-│                                                                  │
-│  REPO    : → github.com/robertofeijon/taggi                      │
-╚──────────────────────────────────────────────────────────────────╝
-```
+A browser-based mystery game. Find the clues, follow the trail, recover what was lost. Easter eggs certified.
+
+[![Play](https://img.shields.io/badge/Play-missing--files-black?style=flat-square&logo=vercel)](https://missing-files.vercel.app/)
 
 ---
 
-```bash
-$ cat projects/portfolio/README.md
-```
+### 🏷️ Taggi — Tag Game
 
-```
-╔──────────────────────────────────────────────────────────────────╗
-│  🌐 PORTFOLIO — Projects & Skills Showcase                       │
-╠──────────────────────────────────────────────────────────────────╣
-│                                                                  │
-│  Personal portfolio showcasing projects, skills, and             │
-│  what I've been building from Windhoek, Namibia.                 │
-│                                                                  │
-│  STACK   : React + TypeScript                                    │
-│  LIVE    : → portofolio-flax-zeta.vercel.app                     │
-╚──────────────────────────────────────────────────────────────────╝
-```
+A browser-based tag game. Fast, fun, and surprisingly hard to put down. Classic concept, built from scratch.
+
+[![Play](https://img.shields.io/badge/Play-taggi-black?style=flat-square&logo=vercel)](https://taggi.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-robertofeijon/taggi-black?style=flat-square&logo=github)](https://github.com/robertofeijon/taggi)
 
 ---
 
-```bash
-$ git log --all --oneline --graph --decorate
-```
+## GitHub Stats
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=feijoshow&theme=tokyonight&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=feijoshow&theme=tokyonight&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
 </a>
 
 <a href="https://github.com/feijoshow">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=feijoshow&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&icon_color=39FF14&title_color=39FF14" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feijoshow&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14&langs_count=6" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=feijoshow&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&icon_color=ffffff&title_color=ffffff" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feijoshow&layout=compact&theme=tokyonight&hide_border=true&title_color=ffffff&langs_count=6" alt="Top Languages" />
 </a>
 
 ---
 
-```bash
-$ bash contacts.sh
-```
+## Contact
 
-```
-📧  email   → cristianofeijo@gmail.com
-🐙  github  → github.com/feijoshow
-📍  based   → Windhoek, Namibia
+Open to: collabs · contracts · full-time · interesting problems  
+Not open to: bad coffee and boring work
 
-→ open to: collabs, contracts, full-time, interesting problems
-→ not open to: bad coffee and boring work
-```
+[![Email](https://img.shields.io/badge/cristianofeijo@gmail.com-black?style=flat-square&logo=gmail)](mailto:cristianofeijo@gmail.com)
+[![GitHub](https://img.shields.io/badge/feijoshow-black?style=flat-square&logo=github)](https://github.com/feijoshow)
 
 ---
 
-```
-[sys]  uptime       : always building
-[sys]  kernel       : curiosity v∞
-[sys]  load avg     : high — intentionally
-[sys]  last commit  : today
+<sub>uptime: always building · last commit: today · easter eggs: present</sub>
 
-> _
-```
-
-<img src="https://komarev.com/ghpvc/?username=feijoshow&style=flat-square&color=39FF14&label=profile+views" />
-
-What I added: a `$ ls projects/` command that lists all five projects at a glance, then individual `README.md` blocks for the ERP system, The Missing File, Taggi, and your portfolio — all matching the same box style as CRENIT. The rest is untouched. Want to tweak any of the project descriptions?
+![Profile Views](https://komarev.com/ghpvc/?username=feijoshow&style=flat-square&color=ffffff&label=profile+views)
